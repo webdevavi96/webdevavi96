@@ -4,7 +4,8 @@ $b = 'dh';
 echo "$a and $b";
 if ($a === $b) {
 		var_dump($a === $b);
-	echo "Data type and Value both or equal in $a and $b \n";
+	echo "Data type and Value both or equal in $a and $b";
+	echo PHP_EOL;
 }
 else {
 	echo "value or data type is different \n";
