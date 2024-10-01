@@ -8,6 +8,6 @@ if ($a === $b) {
 }
 else {
 	echo "value or data type is different \n";
-	var_dump($x === $y);
+	var_dump($a === $b);
 }
 ?>
