@@ -10,7 +10,7 @@ if ($a === $b) {
 	echo "Data type and Value both or equal in $a and $b \n";
 	var_dump($a === $b);
 }
-if ($x === $y) {
+else if ($x === $y) {
 echo "Data type and Value both or equal in $x and $y \n";
 	var_dump($x === $y);
 }
