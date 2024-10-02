@@ -5,7 +5,7 @@ $num1 = readline();
 echo PHP_EOL;
 echo "Second Number: \n";
 $num2 = readline();
-if ($num1 < $num2) {
+if ($num1 != $num2) {
 	echo "$num1 is not equal to $num2";
 }
 else {
