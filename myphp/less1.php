@@ -1,7 +1,7 @@
 <?php
-$num1 = 18383;
-$num2 = 636717;
-echo "between $num1 and $num2 which is greater than other?\n";
+$num1 = 0.4577;
+$num2 = 0.8751;
+echo "between $num1 and $num2 which is less than other?\n";
 if ($num1 > $num2) {
 	echo "$num1 is greater than $num2";
 }
