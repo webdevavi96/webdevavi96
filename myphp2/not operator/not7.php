@@ -6,7 +6,7 @@ if (!$a <= '351617') {
 	echo "Everything looks good! \n";
 }
 else {
-	echo "Kucch to gadbad hai !!! \n kyoki";
+	echo "Kucch to gadbad hai !!! \n kyoki ";
 	var_dump($a >= 66);
 }
 ?>
