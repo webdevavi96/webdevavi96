@@ -6,4 +6,4 @@ $b = $a;
 echo"before increment the value is:  $a and $b";
 $b = $a++;
 echo"after increment the value is: $a and $b";
-?>
+?> 

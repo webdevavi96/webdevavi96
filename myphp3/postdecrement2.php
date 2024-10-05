@@ -5,4 +5,4 @@ $b = $a;
 echo"before decrement the value is:  $a and $b";
 $b = $a--;
 echo"after decrement the value is: $a and $b";
-?>
+?> 

@@ -7,4 +7,4 @@ if ($age >= 18) {
 else {
 	echo"Bhai tu rahne de, tere se na ho payega...";
 }
-?>
+?> 

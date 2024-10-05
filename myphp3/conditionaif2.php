@@ -4,4 +4,4 @@ $age = readline();
 if ($age >= 18) {
 	echo"Congratulations now you can drive a vehicle";
 }
-?>
+?> 
