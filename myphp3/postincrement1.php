@@ -3,6 +3,7 @@
 $a = 9999;
 $b = $a;
 echo"before increment the value is:  $a and $b";
+echo PHP_EOL;
 $b = $a++;
-echo"after increment the value is: $a and $b";
+echo"after increment the value is: $a and $b \";
 ?> 
