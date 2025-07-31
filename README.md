@@ -1,72 +1,119 @@
-<h1 align="center">Hi, I'm Avinash Chaurasiya! 👋</h1>
-<p align="center"><b>Imagine something cool, Code into life.</b></p>
+<h1 align="center">🧙‍♂️ Avinash Chaurasiya — The Code Conjurer of Fullstack Realms</h1>
 
 <p align="center">
-  <a href="https://webdevavi96.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome" alt="Portfolio"/>
-  </a>
-  <a href="http://linkedin.com/avinash-chaurasiya-72b648247" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:avinashchaurasiya902@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=webdevavi96&label=Visitors&color=brightgreen" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/webdevavi96?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/webdevavi96?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-pink" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🧑‍💻 Django/Python Developer passionate about building robust web apps.
-- 🌱 Always learning something new in coding.
-- 💬 Ask me about Django, Python, REST APIs, or anything web development!
-- 🛠️ Loves creating new projects and collaborating with others.
+> 🪄 *In the digital kingdom where ideas seek form, a developer crafts spells of innovation with Python, Django, and front-end finesse. You’ve stepped into the vault of that mage—Avinash Chaurasiya.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 Who Am I?
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" alt="Django Rest Framework"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+I'm a passionate **Fullstack Developer** from 🇮🇳 India who transforms abstract visions into beautiful, scalable, and interactive applications. My journey dances between APIs and animations, with a strong inclination toward building reusable tools for the community.
+
+🛠 I specialize in:
+- Python • Django • Django Channels  
+- REST APIs • MySQL • Redis • HTMX  
+- React • TailwindCSS • Bootstrap • Vite  
+- Git • GitHub • CI/CD • Deployment on Railway
+
+---
+
+## 🌟 Featured Spellbooks (Projects)
+
+### 🔮 [Beautypy](https://github.com/webdevavi96/Beautypy)  
+![Test PyPI - Status](https://img.shields.io/badge/PyPI-Test%20Release-informational)
+
+A **reusable Django UI component** library powered by TailwindCSS. Create stunning templates using magical tags like:
+
+```django
+{% Button label="Launch Spell" type="submit" %}
+{% Alert type="success" %}Success!{% endAlert %}
+```
+
+🔧 Includes:
+- Styled buttons, alerts, forms, and more
+- Plug-and-play via `{% load beautypy %}`
+- Published on Test PyPI
+
+---
+
+### 🏛️ Alumni Meet
+
+Reconnect with your school or college crowd via a real-time alumni portal.
+
+🧩 Features:
+- Role-based user access (students, alumni, teachers)
+- Friend requests (add/accept/reject)
+- Real-time messaging with Django Channels
+- Push notifications for blogs/events
+
+---
+
+### 🌍 Travel Vista
+
+A tourism portal where destinations come alive.
+
+🚀 Highlights:
+- Destination discovery with visuals
+- User-friendly interface for booking
+- Travel blog sections and adventures
+
+---
+
+### 🌦️ Weather App
+
+A weather+music experience — because vibes matter.
+
+🎵 Features:
+- Real-time weather API integration
+- Spotify-based song suggestions for your mood
+- Now with YouTube playback support!
+
+---
+
+## 🧠 Tech Arsenal
+
+**Languages:**  
+Python, JavaScript, HTML5, CSS3
+
+**Frameworks:**  
+Django, React, Tailwind, Bootstrap, Sass
+
+**Libraries:**  
+HTMX, Axios, WebSockets, jQuery
+
+**Databases:**  
+MySQL, Redis
+
+**DevOps:**  
+Git, GitHub, Railway, Whitenoise, Daphne
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webdevavi96&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevavi96&layout=compact&theme=radical" height="170">
 </p>
 
 ---
 
-## 🌟 Featured Project
+## ☕ Let’s Connect
 
-### [Alumni Meet Web App](https://github.com/webdevavi96/alumni-meet)
-> Built with Django for my college, this app connects alumni and current students.  
-> 🚀 **What I learned:**  
-> - Django threads & signals  
-> - Implemented a live chat feature  
-> - Real-time communication and event management  
-> This project was a deep dive into backend logic and real-time features—definitely a milestone in my journey!
-
----
-
-## 🤔 Fun Fact
-
-> If the code works well, don't touch it! 😀  
-
----
-
-## 🎬 Hobbies
-
-- 🍿 Loves to watch action movies
-- 💡 Creating new projects
-- 👨‍💻 Always eager to learn something new in coding
+- 💌 Email: avinashchaurasiya902@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/avinash-chaurasiya-72b648247](https://linkedin.com/in/avinashchaurasiya)
+- 💛 Support: [Buy Me a Coffee](https://www.buymeacoffee.com/webdevavi96)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=0969DA&center=true&vCenter=true&width=440&lines=Let's+build+something+awesome+together!+💡" alt="Typing SVG" />
+  🧝‍♂️ * "Code is my wand. GitHub is my grimoire." *
 </p>
