@@ -95,6 +95,8 @@ MySQL, Redis
 **DevOps:**  
 Git, GitHub, Railway, Whitenoise, Daphne
 
+**Tools:**
+WebSocketKing, Figma, VS Code, Cursor
 ---
 
 ## 🔥 GitHub Stats
@@ -103,9 +105,11 @@ Git, GitHub, Railway, Whitenoise, Daphne
   <img src="https://github-readme-stats.vercel.app/api?username=webdevavi96&show_icons=true&theme=radical" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevavi96&layout=compact&theme=radical" height="170">
 </p>
-<p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=webdevavi96&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=webdevavi96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
