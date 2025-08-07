@@ -104,7 +104,7 @@ Git, GitHub, Railway, Whitenoise, Daphne
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevavi96&layout=compact&theme=radical" height="170">
 </p>
 <p>
-  [![trophy](https://github-profile-trophy.vercel.app/?webdevavi96=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=webdevavi96&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
