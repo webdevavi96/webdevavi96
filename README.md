@@ -97,6 +97,7 @@ Git, GitHub, Railway, Whitenoise, Daphne
 
 **Tools:**
 WebSocketKing, Figma, VS Code, Cursor
+
 ---
 
 ## 🔥 GitHub Stats
