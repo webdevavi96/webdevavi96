@@ -95,7 +95,7 @@ MySQL, Redis
 **DevOps:**  
 Git, GitHub, Railway, Whitenoise, Daphne
 
-**Tools:**
+**Tools:**  
 WebSocketKing, Figma, VS Code, Cursor
 
 ---
