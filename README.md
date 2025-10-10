@@ -18,10 +18,10 @@
 I'm a passionate **Fullstack Developer** from 🇮🇳 India who transforms abstract visions into beautiful, scalable, and interactive applications. My journey dances between APIs and animations, with a strong inclination toward building reusable tools for the community.
 
 🛠 I specialize in:
-- Python • Django • Django Channels  
-- REST APIs • MySQL • Redis • HTMX  
-- React • TailwindCSS • Bootstrap • Vite  
-- Git • GitHub • CI/CD • Deployment on Railway
+- Python • Django • Django Rest Framework   
+- MongoDB • MySQL  
+- HTML • CSS • JavaScript • TailwindCSS • Bootstrap • Vite • MERN Stack
+- Git • GitHub • Figma • Postman
 
 ---
 
@@ -84,19 +84,19 @@ A weather+music experience — because vibes matter.
 Python, JavaScript, HTML5, CSS3
 
 **Frameworks:**  
-Django, React, Tailwind, Bootstrap, Sass
+Django, Express, Tailwind, Bootstrap, Sass
 
 **Libraries:**  
-HTMX, Axios, WebSockets, jQuery
+React, Axios, jQuery
 
 **Databases:**  
-MySQL, Redis
+MySQL, MongoDB
 
 **DevOps:**  
 Git, GitHub, Railway, Whitenoise, Daphne
 
 **Tools:**  
-WebSocketKing, Figma, VS Code, Cursor
+WebSocketKing, Figma, VS Code, Postman
 
 ---
 
