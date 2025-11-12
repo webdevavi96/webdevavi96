@@ -53,7 +53,7 @@ Reconnect with your school or college crowd via a real-time alumni portal.
 - Friend requests (add/accept/reject)
 - Real-time messaging with Django Channels
 - Push notifications for blogs/events
-- Repo Url : (https://github.com/webdevavi96/Alumni_Meet)
+- Repo Url : [Alumni Meet](https://github.com/webdevavi96/Alumni_Meet)
 
 ---
 
@@ -79,22 +79,31 @@ A weather+music experience — because vibes matter.
 
 ---
 
+### 🤖 Jarvice Ai Voice Assitant
+A python based voice assistant for basic tasks.
+
+ Features:
+ - Real time voice commands
+ - do basic task eg: open chrome tabs, play music on youtub
+
+---
+
 ## 🧠 Tech Arsenal
 
 **Languages:**  
 Python, JavaScript, HTML5, CSS3
 
 **Frameworks:**  
-Django, Express, Tailwind, Bootstrap, Sass
+Django, Express, Tailwind, Bootstrap, Express js
 
 **Libraries:**  
-React, Axios, jQuery
+React, Axios, jQuery, Flask
 
 **Databases:**  
 MySQL, MongoDB
 
 **DevOps:**  
-Git, GitHub, Railway, Whitenoise, Daphne
+Git, GitHub, Railway, Whitenoise, Daphne, Ntlify
 
 **Tools:**  
 WebSocketKing, Figma, VS Code, Postman
