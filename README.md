@@ -53,6 +53,7 @@ Reconnect with your school or college crowd via a real-time alumni portal.
 - Friend requests (add/accept/reject)
 - Real-time messaging with Django Channels
 - Push notifications for blogs/events
+- Repo Url : (https://github.com/webdevavi96/Alumni_Meet)
 
 ---
 
