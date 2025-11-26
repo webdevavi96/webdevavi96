@@ -15,98 +15,86 @@
 
 ## 🧭 Who Am I?
 
-I'm a passionate **Fullstack Developer** from 🇮🇳 India who transforms abstract visions into beautiful, scalable, and interactive applications. My journey dances between APIs and animations, with a strong inclination toward building reusable tools for the community.
+I'm a passionate **Fullstack Developer** from 🇮🇳 India who transforms abstract visions into scalable, interactive, and intelligent applications.  
+My journey dances between **APIs, AI, and animations**, with a dedication to building powerful tools and immersive digital experiences.
 
 🛠 I specialize in:
-- Python • Django • Django Rest Framework   
-- MongoDB • MySQL  
-- HTML • CSS • JavaScript • TailwindCSS • Bootstrap • Vite • MERN Stack
-- Git • GitHub • Figma • Postman
+- Python • Django • Django Rest Framework • FastApi 
+- MongoDB • MySQL • PostgreSQL
+- HTML • CSS • JavaScript • TailwindCSS • Bootstrap • MERN Stack  
+- Git • GitHub • Figma • Postman • WebSocketKing
 
 ---
 
 ## 🌟 Featured Spellbooks (Projects)
 
-### 🔮 [Beautypy](https://github.com/webdevavi96/Beautypy)  
-![Test PyPI - Status](https://img.shields.io/badge/PyPI-Test%20Release-informational)
+### ⚖️ **The Court Room Game — AI Text-Based Brain Teaser**  
+An unique **AI-powered storytelling + puzzle-solving game** built with **FastAPI + React**.
 
-A **reusable Django UI component** library powered by TailwindCSS. Create stunning templates using magical tags like:
+🧠 **Highlights:**
+- Multiple AI-driven characters (Judge, Lawyer, Witness, Accused)
+- Integrated **Hugging Face** models for real-time role responses  
+- Dynamic case files, player progress, and NPC reasoning  
+- Custom-built game engine for courtroom decision-making  
+- Brain-teaser mechanics with logical traps and investigation steps
 
-```django
-{% Button label="Launch Spell" type="submit" %}
-{% Alert type="success" %}Success!{% endAlert %}
-```
-
-🔧 Includes:
-- Styled buttons, alerts, forms, and more
-- Plug-and-play via `{% load beautypy %}`
-- Published on Test PyPI
+🚀 **Tech Stack:** FastAPI • React • WebSockets • SQLAlchemy  
+🏗️ **Status:** In active development  
+🔗 **Repo:** *Coming soon (private for now)*
 
 ---
 
 ### 🏛️ Alumni Meet
-
-Reconnect with your school or college crowd via a real-time alumni portal.
+A real-time alumni social portal for schools and colleges.
 
 🧩 Features:
-- Role-based user access (students, alumni, teachers)
-- Friend requests (add/accept/reject)
-- Real-time messaging with Django Channels
-- Push notifications for blogs/events
-- Repo Url : [Alumni Meet](https://github.com/webdevavi96/Alumni_Meet)
+- Role-based user access (students, alumni, teachers)  
+- Facebook-style friend system  
+- Real-time chat with Django Channels  
+- Live push notifications for blogs/events  
+
+🔗 Repo: [Alumni Meet](https://github.com/webdevavi96/Alumni_Meet)
 
 ---
 
-### 🌍 Travel Vista
-
+### 🌍 Travel Vista  
 A tourism portal where destinations come alive.
 
 🚀 Highlights:
-- Destination discovery with visuals
-- User-friendly interface for booking
-- Travel blog sections and adventures
+- Visual destination exploration  
+- Elegant booking UI  
+- Travel blogs & guides  
 
 ---
 
-### 🌦️ Weather App
-
-A weather+music experience — because vibes matter.
+### 🌦️ Weather App  
+A weather + music combo experience.
 
 🎵 Features:
-- Real-time weather API integration
-- Spotify-based song suggestions for your mood
-- Now with YouTube playback support!
+- Real-time weather data  
+- Spotify-based song suggestions  
+- Now supports YouTube playback  
 
 ---
 
-### 🤖 Jarvice Ai Voice Assitant
-A python based voice assistant for basic tasks.
+### 🤖 Jarvice AI Voice Assistant  
+A Python-based personal voice assistant.
 
- Features:
- - Real time voice commands
- - do basic task eg: open chrome tabs, play music on youtub
+✨ Features:
+- Real-time voice commands  
+- Opens apps, tabs, plays YouTube music  
+- Lightweight and extendable  
 
 ---
 
 ## 🧠 Tech Arsenal
 
-**Languages:**  
-Python, JavaScript, HTML5, CSS3
-
-**Frameworks:**  
-Django, Express, Tailwind, Bootstrap, Express js
-
-**Libraries:**  
-React, Axios, jQuery, Flask
-
-**Databases:**  
-MySQL, MongoDB
-
-**DevOps:**  
-Git, GitHub, Railway, Whitenoise, Daphne, Ntlify
-
-**Tools:**  
-WebSocketKing, Figma, VS Code, Postman
+**Languages:** Python, JavaScript, HTML5, CSS3  
+**Frameworks:** Django, Express, Tailwind, Bootstrap  
+**Libraries:** React, Axios, jQuery, Flask  
+**Databases:** MySQL, MongoDB  
+**DevOps:** Git, GitHub, Railway, Whitenoise, Daphne, Netlify  
+**Tools:** WebSocketKing, Figma, VS Code, Postman  
 
 ---
 
@@ -121,13 +109,12 @@ WebSocketKing, Figma, VS Code, Postman
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=webdevavi96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ---
 
 ## ☕ Let’s Connect
 
-- 💌 Email: avinashchaurasiya902@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/avinash-chaurasiya-72b648247](https://linkedin.com/in/avinashchaurasiya)
+- 💌 Email: avinashchaurasiya902@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/avinash-chaurasiya-72b648247](https://linkedin.com/in/avinashchaurasiya)  
 - 💛 Support: [Buy Me a Coffee](https://www.buymeacoffee.com/webdevavi96)
 
 ---
