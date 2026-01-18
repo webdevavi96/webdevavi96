@@ -40,7 +40,7 @@ An unique **AI-powered storytelling + puzzle-solving game** built with **FastAPI
 
 🚀 **Tech Stack:** FastAPI • React • WebSockets • SQLAlchemy  
 🏗️ **Status:** In active development  
-🔗 **Repo:** *Coming soon (private for now)*
+🔗 **Repo:** [The Court Room](https://github.com/webdevavi96/The-Court-Room)
 
 ---
 
