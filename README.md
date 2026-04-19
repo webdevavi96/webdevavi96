@@ -125,8 +125,7 @@ Productivity + anime-themed browser extension.
 
 ## 🏆 GitHub Achievements
 
-[trophy](https://trophy.benkou.dev/?username=webdevavi96&theme=onedark)
-
+[![trophy](https://trophy.benkou.dev/?username=webdevavi96&theme=onedark)](https://github.com/webdevavi96)
 ---
 
 ## ☕ Let’s Connect
