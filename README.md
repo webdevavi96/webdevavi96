@@ -125,7 +125,7 @@ Productivity + anime-themed browser extension.
 
 ## 🏆 GitHub Achievements
 
-[trophy](https://github-profile-trophy.vercel.app/?webdevavi96=ryo-ma&theme=onestar)
+[trophy](https://trophy.benkou.dev/?username=webdevavi96&theme=onedark)
 
 ---
 
