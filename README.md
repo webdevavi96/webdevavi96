@@ -37,7 +37,7 @@ I'm a **Full Stack Developer** who loves building scalable and user-friendly app
 **Backend:** Python • Django • Node.js • Express • FastAPI  
 **Database:** MongoDB • MySQL • PostgreSQL • SQLite  
 **Tools:** Git • GitHub • Postman • Figma • WebSocketKing  
-**Deployment:** Netlify • Railway • Whitenoise • Daphne  
+**Deployment:** Netlify 
 
 ---
 
